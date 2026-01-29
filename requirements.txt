@@ -1,4 +1,6 @@
+flask
 face_recognition
 scikit-learn
 numpy
 opencv-python
+tqdm
